@@ -85,8 +85,8 @@ I believe in continuous learning, consistent practice, and growing step-by-step 
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=heyvishusri&show_icons=true&locale=en&layout=compact" alt="heyvishusri" /></p>
+<p><img align="left" src="#" alt="" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=heyvishusri&show_icons=true&locale=en" alt="heyvishusri" /></p>
+<p>&nbsp;<img align="center" src="#" alt="" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=heyvishusri&" alt="heyvishusri" /></p>
+<p><img align="center" src="#" alt="" /></p>
