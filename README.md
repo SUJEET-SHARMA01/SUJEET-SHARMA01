@@ -1,4 +1,4 @@
-![logo](https://github.com/heyvishusri/heyvishusri/blob/main/Make%20your%20README_github_banner.png)
+https://github.com/SUJEET-SHARMA01/SUJEET-SHARMA01/blob/main/github%20banner.png
 <h1 align="center">Hi 👋, I'm SUJEET SHARMA</h1>
 <h3 align="center">🚀 Mindset:
 I believe in continuous learning, consistent practice, and growing step-by-step towards building a successful career in tech..</h3>
