@@ -11,30 +11,30 @@ I believe in continuous learning, consistent practice, and growing step-by-step 
 
 - 🔭 I’m currently looking an internship.
 
-- 🌱 I’m currently learning **JavaScript, Python, C#, SQL, and MERN stack, etc.**
+- 🌱 I’m currently learning **Html,Css,JavaScript,, SQL, and MERN stack, etc.**
 
-- 📫 How to reach me **vishwashk8255@gmail.com**
+- 📫 How to reach me **sujeetsharma0174@gmail.com**
 
 - ⚡ Fun fact **I think I am Quick Learner!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://twitter.com/sriwastaw51186" target="_blank">
+  <a href="#" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" />
   </a>
-  <a href="https://www.linkedin.com/in/vishwash-kumar-104661266" target="_blank">
+  <a href="https://www.linkedin.com/in/sujeet-kumar-sharma-5a7a58272/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
   </a>
-  <a href="https://www.instagram.com/heyvishu_17.01/" target="_blank">
+  <a href="#" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
   </a>
-  <a href="https://www.youtube.com/@joinmy_code" target="_blank">
+  <a href="#" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" height="30" width="40" />
   </a>
-  <a href="https://www.hackerrank.com/vishwaskumar5531" target="_blank">
+  <a href="#" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="30" width="40" />
   </a>
-  <a href="https://leetcode.com/vishwaskumar17/" target="_blank">
+  <a href="#" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" />
   </a>
 </p>
