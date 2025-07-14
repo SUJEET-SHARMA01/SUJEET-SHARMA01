@@ -85,8 +85,8 @@ I believe in continuous learning, consistent practice, and growing step-by-step 
 </p>
 
 
-<p><img align="left" src="#" alt="" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SUJEET-SHARMA01&show_icons=true&locale=en&layout=compact" alt="SUJEET-SHARMA01" /></p>
 
-<p>&nbsp;<img align="center" src="#" alt="" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SUJEET-SHARMA01&show_icons=true&locale=en" alt="SUJEET-SHARMA01" /></p>
 
-<p><img align="center" src="#" alt="" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SUJEET-SHARMA01&" alt="SUJEET-SHARMA01" /></p>
